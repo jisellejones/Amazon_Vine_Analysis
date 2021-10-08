@@ -16,9 +16,13 @@ The purpose of this analysis was to determine if there is any positive bias in t
 
 | Total Review Count | 5-Star Review Count | % of 5-Star Reviews | 
 |--------------------| ------------------- | ------------------- |
-| 170 | 65| 38|
+| 170 | 65| 38 |
 
 
 #### Non- Vine Reviews
+| Total Review Count | 5-Star Review Count | % of 5-Star Reviews | 
+|--------------------| ------------------- | ------------------- |
+| 37,840 | 20,612 | 54 |
+
 ## Summary
 
